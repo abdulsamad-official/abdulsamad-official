@@ -58,64 +58,6 @@ I'm currently focused on growing as a Software Engineer and AI/ML Engineer by bu
 
 ---
 
-## 💼 Experience
-
-### AI Engineer — APEX STRATEGIX
-
-**May 2026 – July 2026 | Islamabad, Pakistan**
-
-* Developed and implemented AI-based solutions using Python and machine learning techniques.
-* Worked on data processing, model development, testing, and performance evaluation.
-* Collaborated with team members to develop practical technology-driven solutions.
-
-### Data Science & Analytics Intern — DevelopersHub Corporation
-
-**July 2025 – September 2025**
-
-* Analyzed datasets and built machine learning models using Python, Pandas, NumPy, scikit-learn, and TensorFlow.
-* Created visualizations using Matplotlib and Seaborn.
-* Collaborated on data-driven projects.
-
----
-
-## 🔥 Featured Projects
-
-### 🛡️ Brawl Detection & AI Surveillance System
-
-**Python · YOLO11 · FastAPI · React.js · OpenCV · WebSocket · Tailwind CSS · Chart.js**
-
-A real-time AI surveillance system designed for automated threat detection.
-
-* Detects **violence, weapons, fire, smoke, and theft** using YOLO11.
-* Built a full-stack surveillance platform with **React.js, FastAPI, and WebSockets**.
-* Implemented real-time alerts, recording, and evidence capture.
-
----
-
-### 🤖 RAG-Based AI Document Chatbot
-
-**Python · LangChain · RAG · NLP · Hugging Face · Vector Database**
-
-An AI-powered document question-answering system using Retrieval-Augmented Generation.
-
-* Built document Q&A functionality using **RAG, LangChain, and Hugging Face models**.
-* Implemented document retrieval for context-aware responses.
-* Applied prompt engineering to improve response quality.
-
----
-
-### 😷 Face Mask Detection System
-
-**Python · TensorFlow · Keras · OpenCV · MobileNetV2**
-
-A deep learning based computer vision application for mask classification.
-
-* Classified **Mask, Without Mask, and Incorrect Mask**.
-* Trained a MobileNetV2 model using **14,535 images**.
-* Applied preprocessing and model evaluation techniques.
-
----
-
 ## 📜 Certifications
 
 * **IBM AI Engineering Professional Certificate** — 2025
@@ -129,7 +71,6 @@ A deep learning based computer vision application for mask classification.
 ## 👨‍🏫 Leadership & Activities
 
 **Director — Event Management Team, Fintech AIOU**
-*December 2025 – Present*
 
 Planning and coordinating seminars, workshops, and student activities while supporting team responsibilities and event execution.
 
@@ -149,7 +90,8 @@ Planning and coordinating seminars, workshops, and student activities while supp
 ## 🤝 Let's Connect
 
 📧 **Email:** [abdulsamad565664@gmail.com](mailto:abdulsamad565664@gmail.com)
-📧 **Linkedin:** [abdulsamad2004](www.linkedin.com/in/abdulsamad2004)
+📧 **Linkedin:** [Linkedin](www.linkedin.com/in/abdulsamad2004)
 📍 **Location:** Islamabad, Pakistan
+
 
 Feel free to explore my repositories and connect with me for collaboration, projects, and software or AI/ML opportunities.
