@@ -1,23 +1,23 @@
 # Hi 👋, I'm Abdul Samad
 
-### Computer Science Graduate | Aspiring Software Engineer · AI & Machine Learning
+### AI Engineer | Data Scientist | Python • Machine Learning • Generative AI
 
 📍 Islamabad, Pakistan
 
-I'm a Computer Science graduate with a strong foundation in software development, algorithms, data structures, and artificial intelligence. I enjoy building practical software and AI solutions using Python, machine learning, computer vision, NLP, and modern web technologies.
+I'm a Computer Science graduate focused on building practical AI and data-driven solutions. I work with Python, Machine Learning, Deep Learning, Generative AI, Computer Vision, NLP, and modern backend technologies.
 
-I'm currently focused on growing as a Software Engineer and AI/ML Engineer by building real-world, production-oriented projects.
+I enjoy turning real-world problems into reliable AI applications, from data preparation and model development to AI-powered systems and APIs.
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 Computer Science Graduate from **Allama Iqbal Open University**
-* 🤖 Interested in **Artificial Intelligence, Machine Learning, Data Science & Software Engineering**
-* 💻 Experienced in developing **AI and data-driven applications**
+* 🤖 Focused on **Artificial Intelligence, Machine Learning, Data Science & Generative AI**
+* 💻 Experienced in building **AI and data-driven applications**
 * 🧠 Strong foundation in **Data Structures, Algorithms, OOP, Databases & Software Engineering**
-* 🔍 Interested in **Computer Vision, NLP, Deep Learning & REST APIs**
-* 🤝 Experienced in collaborating on practical technology-driven solutions
+* 🔍 Hands-on experience with **Computer Vision, NLP, Deep Learning & REST APIs**
+* 🤝 Experienced in developing practical, technology-driven projects
 * 👨‍🏫 Peer Tutor for programming, DSA, and core Computer Science concepts
 
 ---
@@ -42,11 +42,11 @@ I'm currently focused on growing as a Software Engineer and AI/ML Engineer by bu
 
 ### AI Engineering
 
-`RAG` `LangChain` `NLP` `Vector Databases` `Prompt Engineering`
+`RAG` `LangChain` `LangGraph` `NLP` `LLMs` `Vector Databases` `Prompt Engineering` `AI Agents`
 
 ### Databases
 
-`PostgreSQL` `MySQL`
+`PostgreSQL` `MySQL` `pgvector`
 
 ### Tools
 
@@ -55,6 +55,28 @@ I'm currently focused on growing as a Software Engineer and AI/ML Engineer by bu
 ### Core Concepts
 
 `Data Structures & Algorithms` `OOP` `REST APIs` `Machine Learning` `Deep Learning` `Computer Vision` `NLP` `Data Cleaning` `EDA` `Statistical Analysis`
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Research Agent
+
+An AI-powered research system that plans research tasks, searches for relevant information, verifies results, and generates structured reports.
+
+**Tech:** `Python` `LangGraph` `Groq` `Tavily` `PostgreSQL` `pgvector` `Redis` `FastAPI` `React`
+
+### 💻 AI Software Engineering Agent
+
+An AI-powered software engineering assistant that analyzes GitHub repositories, retrieves relevant code context, and answers questions about codebases using RAG and semantic search.
+
+**Tech:** `Python` `LLMs` `RAG` `Embeddings` `Vector Search` `GitHub API` `AI Agents`
+
+### 🚨 AI Surveillance & Brawl Detection System
+
+A real-time computer vision system designed to detect events and objects such as violence, fire, smoke, weapons, theft, and falling from video streams.
+
+**Tech:** `Python` `YOLO11m` `OpenCV` `FastAPI` `React` `WebSockets` `ONNX`
 
 ---
 
@@ -79,19 +101,20 @@ Planning and coordinating seminars, workshops, and student activities while supp
 ## 🌱 Currently Focusing On
 
 * Artificial Intelligence & Machine Learning
-* Software Engineering
+* Generative AI & LLM Applications
+* AI Agents & RAG Systems
 * Computer Vision
-* Natural Language Processing
-* AI-powered Applications
-* Full-Stack AI Solutions
+* Data Science
+* Full-Stack AI Applications
 
 ---
 
 ## 🤝 Let's Connect
 
 📧 **Email:** [abdulsamad565664@gmail.com](mailto:abdulsamad565664@gmail.com)
-📧 **Linkedin:** [Linkedin](www.linkedin.com/in/abdulsamad2004)
+
+📧 **LinkedIn:** [LinkedIn](www.linkedin.com/in/abdulsamad2004)
+
 📍 **Location:** Islamabad, Pakistan
 
-
-Feel free to explore my repositories and connect with me for collaboration, projects, and software or AI/ML opportunities.
+Feel free to explore my repositories and connect with me for collaboration, projects, and AI/ML opportunities.
